@@ -1,6 +1,5 @@
-# Capy
 
-Python developer with experience in WebKit projects, game development, and tooling. Also familiar with C++ and basic JavaScript.  
+## Python developer with experience in WebKit projects, game development, and tooling. Also familiar with C++ and basic JavaScript.  
 
 ---
 
@@ -19,6 +18,4 @@ Python developer with experience in WebKit projects, game development, and tooli
 ---
 
 ## Contact
-
-- GitHub: [@yourusername](https://github.com/yourusername)  
 - Discord: capyone
