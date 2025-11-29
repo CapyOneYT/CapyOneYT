@@ -12,8 +12,7 @@
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats-git-masterorgs.vercel.app/api?username=CapyOneYT&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats-git-masterorgs.vercel.app/api/top-langs/?username=CapyOneYT&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=CapyOneYT&show_icons=true&theme=radical)
 
 ---
 
